@@ -1,0 +1,5 @@
+pandas
+openxyl
+openai
+pyodbc
+thiker
